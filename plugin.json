@@ -1,0 +1,11 @@
+{
+    "id": "friendsofbotble/hide-activated-license-info",
+    "name": "Hide Activated License Info",
+    "namespace": "FriendsOfBotble\\HideActivatedLicenseInfo\\",
+    "provider": "FriendsOfBotble\\HideActivatedLicenseInfo\\HideActivatedLicenseInfoProvider",
+    "author": "FriendsOfBotble",
+    "url": "https://github.com/FriendsOfBotble/hide-activated-license-info",
+    "version": "1.0.0",
+    "minimum_core_version": "7.1.0",
+    "description": "Hide activated license info in Botble CMS admin panel"
+}

@@ -5,7 +5,7 @@
     "provider": "FriendsOfBotble\\HideActivatedLicenseInfo\\HideActivatedLicenseInfoProvider",
     "author": "FriendsOfBotble",
     "url": "https://github.com/FriendsOfBotble/hide-activated-license-info",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimum_core_version": "7.1.0",
     "description": "Hide activated license info in Botble CMS admin panel"
 }
